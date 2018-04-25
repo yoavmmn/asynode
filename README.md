@@ -3,7 +3,7 @@
 
 A cli tool for using async/await without wrapping the main logic with async function.
 
-This project was built for fun at 3 am and is *not* suitable for production.
+This project was built for fun at 3 am and is **not** suitable for production.
 
 # Usage
 ```javascript
