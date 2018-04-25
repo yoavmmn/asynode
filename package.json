@@ -8,10 +8,8 @@
   "bin": "./index.js",
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watch"
-  },
-  "dependencies": {
-    "axios": "^0.18.0"
+    "test:watch": "jest --watch",
+    "prepublish": "npm test"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
