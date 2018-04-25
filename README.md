@@ -9,4 +9,4 @@ const axios = require('axios');
 const data = await axios.get(...);
 ```
 
-Simply run `asynode somefile.js`. That's it.
+Simply run `asynode somefile.js`. That's it. no need to wrap the main logic with an async function.
