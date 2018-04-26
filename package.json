@@ -1,6 +1,6 @@
 {
   "name": "asynode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A cli tool for using async/await without wrapping the main logic with async function",
   "main": "index.js",
   "author": "yoavmmn",
