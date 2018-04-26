@@ -5,6 +5,11 @@ A cli tool for using async/await without wrapping the main logic with async func
 
 This project was built for fun at 3 am and is **not** suitable for production.
 
+# Install
+```
+npm install -g asynode
+```
+
 # Usage
 ```javascript
 // somefile.js
