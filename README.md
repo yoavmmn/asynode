@@ -3,7 +3,7 @@
 
 A cli tool for using `top-level await`. This means you can use `await` without wrapping the main logic with an async function.
 
-This project was built for fun at 3 am and is **not** suitable for production.
+This project was built for fun at 3am and is **not** suitable for production.
 
 # Install
 ```
